@@ -1,0 +1,4 @@
+outs:
+- md5: 1709a890dbd4e981a78c8af3b0698cec
+  size: 1055
+  path: LogisticRegression.sav
